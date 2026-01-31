@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 
-
-=======
 Project Description:-
 
 The Court Case Management System is a simple web-based application developed to manage court case records digitally. The system allows users to add, view, update, and delete court case details through a REST-based backend developed using Spring Boot.
